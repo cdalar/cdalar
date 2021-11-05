@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there, I'm Cemal Y. Dalar 👋 ![](https://komarev.com/ghpvc/?username=cdalar&color=green&&style=flat)
+<!--STARTS_HERE_QUOTE_README-->
+<i>❝All Computers Wait At The Same Speed❞</i>
+<!--ENDS_HERE_QUOTE_README-->
 
-<!--
-**cdalar/cdalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm [Cemal Y. Dalar](https://linkedin.com/in/cemaldalar), a Cloud Architect / Software Engineer 🚀 from Amsterdam 
 
-Here are some ideas to get you started:
+### :octocat: Github Statistics
+<p align="left">
+<img  src="https://github-readme-stats.vercel.app/api?username=cdalar&show_icons=true&theme=radical" alt="cdalar" width="480" height="180" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdalar&layout=compact&hide=html&theme=radical" alt="cdalar"/> -->
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me 
+<a href="https://linkedin.com/in/cemaldalar" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="bthnapydin" /></a>
+<a href="https://cdalar.medium.com" target="blank"><img align="center" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="@cdalar" /></a>
+<a href="https://twitter.com/cdalar" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="cdalar" /></a>
