@@ -5,7 +5,6 @@
 
 Hi, I'm [Cemal Y. Dalar](https://linkedin.com/in/cemaldalar), a Jack of All Trades Person from Amsterdam. Was co-founder/CTO of [gittigidiyor](https://www.gittigidiyor.com/). Love taking care of things related to AWS, Kubernetes, DevOps and golang.
 
-### :octocat: Github Statistics
 <p align="left">
 <img  src="https://github-readme-stats.vercel.app/api?username=cdalar&show_icons=true&theme=radical" alt="cdalar" width="480" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdalar&layout=compact&hide=html&theme=radical" alt="cdalar"/>
