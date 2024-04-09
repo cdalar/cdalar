@@ -5,10 +5,12 @@
 
 Hi, I'm [Cemal Y. Dalar](https://linkedin.com/in/cemaldalar), a Jack of All Trades Person from Amsterdam. Was co-founder/CTO of [gittigidiyor](https://www.gittigidiyor.com/). Love taking care of things related to AWS, Kubernetes, DevOps and golang.
 
-<p align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=cdalar&show_icons=true&theme=radical" alt="cdalar" width="480" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdalar&layout=compact&hide=html&theme=radical" alt="cdalar"/>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cdalar" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cdalar&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ### Connect with me 
 <a href="https://linkedin.com/in/cemaldalar" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="cemaldalar" /></a>
