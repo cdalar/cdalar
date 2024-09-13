@@ -3,7 +3,7 @@
 <i>❝All Computers Wait At The Same Speed❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-Hi, I'm [Cemal Y. Dalar](https://linkedin.com/in/cemaldalar), a Jack of All Trades Person from Amsterdam. Was co-founder/CTO of [gittigidiyor](https://www.gittigidiyor.com/). Love taking care of things related to AWS, Kubernetes, DevOps and golang.
+Hi, I'm [Cemal Y. Dalar](https://linkedin.com/in/cemaldalar), a Jack of All Trades Person from Amsterdam. Was co-founder/CTO of gittigidiyor.com. Love taking care of things related to AWS, Azure, Kubernetes, DevOps and golang.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cdalar" />
